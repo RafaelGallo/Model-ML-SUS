@@ -1,2 +1,5 @@
 # Model-ML-SUS
-Modelo regressão linear previsão
+
+Case processo seletico Petz - Modelo regressão linear
+
+- Modelo regressão linear previsão
